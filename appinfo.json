@@ -1,0 +1,48 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ssaxen4@illinois.edu",
+    "longName": "homeFront - Connected Home App",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/icon.png",
+                "menuIcon": true,
+                "name": "IMAGES_ICON_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "homeFront",
+    "uuid": "7af6482c-d160-40a3-9ff6-c9d40dda5a50",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "hiddenApp": false,
+        "watchface": false
+    }
+}
