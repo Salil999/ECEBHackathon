@@ -1,2 +1,2 @@
 # ECEBHackathon
-Hackathon on campus for insurance company
+AllState Hackathon on campus (UIUC)
